@@ -1,1 +1,1 @@
-commands used
+shell permissions commands used
